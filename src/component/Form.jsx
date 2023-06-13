@@ -49,7 +49,7 @@ const Form = (props) => {
       <h2>your text summry </h2>
       <p> {text.split(" ").length} words and  {text.length} characters</p>
       <p> {0.008 * text.split(" ").length} minutes read</p>
-      
+      <></>
     <div className='container b-2'> 
     <div className="card">
   <div class="card-body">
